@@ -1,16 +1,19 @@
-## Hi there 👋
+# Technical Profile
 
-<!--
-**o0travaa/o0travaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🦀 **Focus:** Learning Rust & Systems Programming
+- 🌐 **Languages:** English (B1-B2), Russian (Native)
+- 💻 **Environment:** Windows + WSL (Linux subsystem)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Interests
+- Low-level & Systems Architecture
+- Command Line Tools (CLI)
+- Network Protocols & Backend Infrastructure
+
+---
+
+### Goals
+- Build clean portfolio projects in Rust
+- Contribute to Open Source libraries
+- Relocate for studies/work (Europe/Serbia 🇷🇸)

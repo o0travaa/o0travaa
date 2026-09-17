@@ -14,6 +14,6 @@
 ---
 
 ### Goals
-- Build clean portfolio projects in Rust
+- Build clean portfolio projects
 - Contribute to Open Source libraries
 - Relocate for studies/work (Europe/Serbia 🇷🇸)

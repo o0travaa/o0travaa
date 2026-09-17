@@ -2,7 +2,7 @@
 
 - 🦀 **Focus:** Learning Rust & Systems Programming
 - 🌐 **Languages:** English (B1-B2), Russian (Native)
-- 💻 **Environment:** Windows + WSL (Linux subsystem)
+- 💻 **Environment:** Windows + CachyOS
 
 ---
 

@@ -1,6 +1,6 @@
 # Technical Profile
 
-- 🦀 **Focus:** Learning Rust & Systems Programming
+- 🎓 **Focus:** System Programing & DevOps
 - 🌐 **Languages:** English (B1-B2), Russian (Native)
 - 💻 **Environment:** Windows + CachyOS
 

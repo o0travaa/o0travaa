@@ -16,4 +16,4 @@
 ### Goals
 - Build clean portfolio projects
 - Contribute to Open Source libraries
-- Relocate for studies/work (Europe/Serbia 🇷🇸)
+- Relocate for studies/work (Europe)
